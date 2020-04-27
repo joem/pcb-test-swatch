@@ -1,7 +1,7 @@
 PCB Test Swatch
 ===============
 
-A small (somewhat inexpensive) 0.72 x 0.72 inches (0.52 in2) sample that shows different layers possible when making a PCB. The numbered layers are as follows:
+A small (somewhat inexpensive) 0.72 x 0.72 inches (0.52 in^2) sample that shows different layers possible when making a PCB. The numbered layers are as follows:
 
 1. Silkscreen on copper
 2. Copper
