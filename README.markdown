@@ -24,6 +24,7 @@ Notes:
 - Depending on the manufacturer and the processes, some layers may not appear different from others on the final product.
 - In general, the layers are ordered as follows when manufactured: silkscreen on solder mask on copper on PCB.
 - Remember, the solder mask layer in KiCad (and possibly other EDA software) acts as a mask for the solder mask, so wherever you draw on the soldermask layer, no mask substance will appear on the PCB.
+- Opening this project in KiCad now requires KiCad 6 at a minimum. I've removed all the legacy KiCad 5 files.
 
 This board was designed in Inkscape and converted to KiCad with the [svg2shenzhen](https://github.com/badgeek/svg2shenzhen) extension. I then fiddled with some things in KiCad.
 
